@@ -1,0 +1,11 @@
+{
+  "key.category.autohold.main": "AutoHold",
+  "key.autohold.panel": "Ouvrir le panneau",
+  "key.autohold.walk": "Avance auto (on/off)",
+  "key.autohold.attack": "Clic gauche maintenu (on/off)",
+  "screen.autohold.title": "AutoHold",
+  "option.autohold.walk": "Avancer automatiquement",
+  "option.autohold.attack": "Maintenir clic gauche",
+  "option.autohold.on": "ACTIVÉ",
+  "option.autohold.off": "désactivé"
+}

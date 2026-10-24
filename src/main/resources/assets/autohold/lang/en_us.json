@@ -1,0 +1,11 @@
+{
+  "key.category.autohold.main": "AutoHold",
+  "key.autohold.panel": "Open panel",
+  "key.autohold.walk": "Toggle auto walk",
+  "key.autohold.attack": "Toggle hold left click",
+  "screen.autohold.title": "AutoHold",
+  "option.autohold.walk": "Auto walk forward",
+  "option.autohold.attack": "Hold left click",
+  "option.autohold.on": "ON",
+  "option.autohold.off": "off"
+}
